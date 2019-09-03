@@ -1,6 +1,6 @@
 package com.tecsup.lab01.View;
 
-public class UserViewe extends com.tecsup.lab01.Model.User{
+public class UserView extends com.tecsup.lab01.Model.User{
     public void imprimir() {
 		System.out.println("La persona ingresada es:");
 		System.out.println(nombre+" "+apellidos);
